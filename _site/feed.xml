@@ -1,0 +1,255 @@
+
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:4000/</id>
+  <title>Ernest S.</title>
+  <subtitle>A minimal, responsive, and powerful Jekyll theme for presenting professional writing.</subtitle>
+  <updated>2022-11-18T18:04:49-09:00</updated>
+  <author>
+    <name>Ernest S.</name>
+    <uri>http://localhost:4000/</uri>
+  </author>
+  <link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml"/>
+  <link rel="alternate" type="text/html" hreflang="en"
+    href="http://localhost:4000/"/>
+  <generator uri="https://jekyllrb.com/" version="4.3.1">Jekyll</generator>
+  <rights> © 2022 Ernest S. </rights>
+  <icon>/assets/img/favicons/favicon.ico</icon>
+  <logo>/assets/img/favicons/favicon-96x96.png</logo>
+
+
+  
+  <entry>
+    <title>References</title>
+    <link href="http://localhost:4000/posts/references/" rel="alternate" type="text/html" title="References" />
+    <published>2022-11-09T03:55:00-09:00</published>
+  
+    <updated>2022-11-09T03:55:00-09:00</updated>
+  
+    <id>http://localhost:4000/posts/references/</id>
+    <content src="http://localhost:4000/posts/references/" />
+    <author>
+      <name>Ernest S.</name>
+    </author>
+
+  
+    
+    <category term="cat 05" />
+    
+    <category term="cat 06" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      References
+
+
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>Hello World Article 03</title>
+    <link href="http://localhost:4000/posts/hello-world/" rel="alternate" type="text/html" title="Hello World Article 03" />
+    <published>2022-11-09T03:55:00-09:00</published>
+  
+    <updated>2022-11-09T03:55:00-09:00</updated>
+  
+    <id>http://localhost:4000/posts/hello-world/</id>
+    <content src="http://localhost:4000/posts/hello-world/" />
+    <author>
+      <name>Ernest S.</name>
+    </author>
+
+  
+    
+    <category term="cat 05" />
+    
+    <category term="cat 06" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      References
+
+
+this is a good code
+
+select 
+
+
+
+
+hellow world
+
+
+
+
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>Getting Started</title>
+    <link href="http://localhost:4000/posts/getting-started-copy-7/" rel="alternate" type="text/html" title="Getting Started" />
+    <published>2022-10-09T04:55:00-08:00</published>
+  
+    <updated>2022-10-09T04:55:00-08:00</updated>
+  
+    <id>http://localhost:4000/posts/getting-started-copy-7/</id>
+    <content src="http://localhost:4000/posts/getting-started-copy-7/" />
+    <author>
+      <name>cotes</name>
+    </author>
+
+  
+    
+    <category term="cat 05" />
+    
+    <category term="cat 06" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      Prerequisites
+
+Follow the instructions in the Jekyll Docs to complete the installation of Ruby, RubyGems, Jekyll, and Bundler. In addition, Git is also required to be installed.
+
+Installation
+
+Creating a New Site
+
+There are two ways to create a new repository for this theme:
+
+
+  Using the Chirpy Starter - Easy to upgrade, isolates irrelevant project files so you can focus on writing.
+  Forking ...
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>Getting Started</title>
+    <link href="http://localhost:4000/posts/getting-started-copy-6/" rel="alternate" type="text/html" title="Getting Started" />
+    <published>2022-07-09T04:55:00-08:00</published>
+  
+    <updated>2022-07-09T04:55:00-08:00</updated>
+  
+    <id>http://localhost:4000/posts/getting-started-copy-6/</id>
+    <content src="http://localhost:4000/posts/getting-started-copy-6/" />
+    <author>
+      <name>cotes</name>
+    </author>
+
+  
+    
+    <category term="cat 05" />
+    
+    <category term="cat 06" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      Prerequisites
+
+Follow the instructions in the Jekyll Docs to complete the installation of Ruby, RubyGems, Jekyll, and Bundler. In addition, Git is also required to be installed.
+
+Installation
+
+Creating a New Site
+
+There are two ways to create a new repository for this theme:
+
+
+  Using the Chirpy Starter - Easy to upgrade, isolates irrelevant project files so you can focus on writing.
+  Forking ...
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>Getting Started</title>
+    <link href="http://localhost:4000/posts/getting-started-copy-5/" rel="alternate" type="text/html" title="Getting Started" />
+    <published>2022-06-06T04:55:00-08:00</published>
+  
+    <updated>2022-06-06T04:55:00-08:00</updated>
+  
+    <id>http://localhost:4000/posts/getting-started-copy-5/</id>
+    <content src="http://localhost:4000/posts/getting-started-copy-5/" />
+    <author>
+      <name>cotes</name>
+    </author>
+
+  
+    
+    <category term="cat 05" />
+    
+    <category term="cat 06" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      Prerequisites
+
+Follow the instructions in the Jekyll Docs to complete the installation of Ruby, RubyGems, Jekyll, and Bundler. In addition, Git is also required to be installed.
+
+Installation
+
+Creating a New Site
+
+There are two ways to create a new repository for this theme:
+
+
+  Using the Chirpy Starter - Easy to upgrade, isolates irrelevant project files so you can focus on writing.
+  Forking ...
+    </summary>
+  
+
+  </entry>
+
+</feed>
+
+
